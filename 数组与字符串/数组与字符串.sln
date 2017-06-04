@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组与字符串", "数组与字符串\数组与字符串.vcxproj", "{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Debug|x64.ActiveCfg = Debug|x64
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Debug|x64.Build.0 = Debug|x64
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Debug|x86.Build.0 = Debug|Win32
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Release|x64.ActiveCfg = Release|x64
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Release|x64.Build.0 = Release|x64
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Release|x86.ActiveCfg = Release|Win32
+		{83ACEC28-A3EF-4838-A63B-8BCF1213F6F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
