@@ -20,3 +20,19 @@ int getCountOf1(int number)
 	
 	return count;
 }
+
+//找出一堆数中，只出现一次的唯一一个数（其余的数都出现了两次）
+int getNumber_1(int arr[], size_t size)
+{
+	assert(arr);
+	
+	int number = 0; //0与任何数n异或，都等于n
+
+	for (size i = 0; i < size; ++i)
+	{
+		number ^= arr[i];
+	}
+	
+	return number;
+}
+//找出一堆数中，只出现一次的两个数（其余的数都出现了两次）
