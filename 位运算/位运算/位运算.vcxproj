@@ -118,10 +118,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="不要被阶层吓倒.cpp" />
+    <ClCompile Include="求二进制中1的个数及其拓展.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="判断一个数是否是2的乘方.h" />
+    <ClCompile Include="判断一个数是否是2的乘方.c">
+      <FileType>CppHeader</FileType>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
