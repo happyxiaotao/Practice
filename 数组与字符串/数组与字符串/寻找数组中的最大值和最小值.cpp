@@ -26,6 +26,7 @@ using namespace std;
 
 //解法四代码
 //利用键值对存储Max与Min
+//在程序中下标为end的值是可取的
 pair<int, int> SearchMaxMin(int arr[], int begin, int end)
 {
 	assert(arr);
