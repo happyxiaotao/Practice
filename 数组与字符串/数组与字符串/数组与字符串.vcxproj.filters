@@ -18,5 +18,8 @@
     <ClCompile Include="字符串转化为整数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="寻找数组中的最大值和最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

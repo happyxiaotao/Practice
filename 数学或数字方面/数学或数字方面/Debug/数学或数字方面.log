@@ -1,4 +1,4 @@
-﻿生成启动时间为 2017/6/9 23:11:48。
+﻿生成启动时间为 2017/6/10 21:47:39。
      1>项目“E:\documents\visual studio 2015\Projects\Practice\数学或数字方面\数学或数字方面\数学或数字方面.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "1的数目.cpp"
@@ -10,4 +10,4 @@
 
 已成功生成。
 
-已用时间 00:00:30.63
+已用时间 00:00:02.87

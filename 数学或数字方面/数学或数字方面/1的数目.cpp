@@ -15,7 +15,7 @@ int GetCountOf1(int n)
 		if (1 == n % 10)
 			++count;
 		n /= 10;
-	}
+	} 
 	return count;
 }
 
@@ -30,8 +30,17 @@ int F(int n)
 
 int main()
 {
-	for (int i = 0; i < 30; ++i)
-		cout << GetCountOf1(i) << endl;
-
+	//for (int i = 0; i < 30; ++i)
+	//{
+	//	cout << "i = " << i << "：1的个数："<<GetCountOf1(i) << endl;
+	//}
+	cout << "开始" << endl;
+/*	for (int i = 0; i < 300000; ++i)
+	{
+		cout << "0到" << i << "之间所有数中数字1的个数是：" << F(i) << endl;
+	}
+	*/
+	F(30000);
+	cout << "结束" << endl;
 	system("pause");
 }
