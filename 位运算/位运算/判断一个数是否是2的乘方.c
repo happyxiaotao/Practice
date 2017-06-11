@@ -48,6 +48,7 @@ void getNumber(int arr[], size_t size, int* n1, int* n2)
 		++pos;
 		result >>= 1;
 	}
+	
 	//此时pos表示n1与n2之间在第pos位上二进制不同
 	//下面将数组分为两类，分别异或得到n1与n2
 	*n1 = 0;
