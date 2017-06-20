@@ -119,6 +119,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="不要被阶层吓倒.cpp" />
+    <ClCompile Include="交换两个数.cpp" />
     <ClCompile Include="求二进制中1的个数及其拓展.cpp" />
   </ItemGroup>
   <ItemGroup>

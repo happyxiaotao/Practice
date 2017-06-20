@@ -24,5 +24,8 @@
     <ClCompile Include="判断一个数是否是2的乘方.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="交换两个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
